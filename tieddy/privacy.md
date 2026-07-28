@@ -1,8 +1,6 @@
-<style>
-  header, .site-header, a.site-title {
-    display: none !important;
-  }
-</style>
+---
+layout: null
+---
 
 ** Privacy Policy **
 
