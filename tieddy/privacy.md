@@ -84,11 +84,20 @@ The Service Provider retains personal data based on its necessity for the stated
 
 You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at support.tieddy@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
 
-**Data Deletion**
+**Data Deletion and User Control**
 
-You can request deletion of your personal data or account by contacting the Service Provider at support.tieddy@gmail.com. The Service Provider will process your request within the timeframes required by applicable law.
+You have full control over your data in **Tieddy**:
 
-Upon verification of your identity, the Service Provider will delete your personal data from its systems, except where retention is required for legal compliance or legitimate business purposes.
+* **In-App Partial Deletion:** You can delete all shared partner contents (drawings, notes, photos, and partner links) while keeping your account active directly within the app by going to **Settings > Delete Partner Data**.
+* **Account or Data Deletion Request:** You can also request full deletion of your personal data or account by contacting us at support.tieddy@gmail.com. We will process your request within the timeframes required by applicable law.
+
+**Data Being Deleted**
+Upon request or in-app action, we delete:
+* Partner links and account relationship records.
+* User-generated content (drawings, notes, and uploaded photos).
+
+**Data Retention**
+Data is deleted immediately from our active system and permanently purged from backups within a maximum of 30 days, except where retention is required for legal compliance or legitimate business purposes.
 
 **Children**
 
