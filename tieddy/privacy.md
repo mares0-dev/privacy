@@ -1,3 +1,9 @@
+<style>
+  header, .site-header, a.site-title {
+    display: none !important;
+  }
+</style>
+
 ** Privacy Policy **
 
 This privacy policy applies to the Tieddy app for mobile devices, together with any related services operated by Christian Eduardo (collectively, the "Application"). Christian Eduardo is hereby referred to as the "Service Provider".
