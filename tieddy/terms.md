@@ -1,3 +1,11 @@
+<style>
+  /* Oculta la cabecera del tema Jekyll Primer y sus elementos de título */
+  .site-header, header, .header-title, a[href^="/privacy"] {
+    display: none !important;
+  }
+  
+</style>
+
 **Terms & Conditions**  
 
 These terms and conditions apply to the Tieddy app for mobile devices, together with any related services operated by Christian Eduardo (collectively, the "Application"). Christian Eduardo is hereby referred to as the "Service Provider".
