@@ -92,9 +92,7 @@ Upon verification of your identity, the Service Provider will delete your person
 
 **Children**
 
-The Application is not intended for children under 13 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
-
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (support.tieddy@gmail.com) so that they will be able to take the necessary actions.
+The Application is not intended for users under 18 years of age. The Service Provider does not knowingly collect or solicit personal data from anyone under 18. If the Service Provider discovers that a person under 18 has provided personal information, it will immediately be deleted from our servers. If you are a parent or guardian and become aware that your child has provided personal data, please contact us at support.tieddy@gmail.com so that we can take prompt necessary action.
 
 **Security**
 
