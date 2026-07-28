@@ -30,7 +30,7 @@ The Service Provider may suspend or terminate your access immediately without no
 
 Upon termination, your right to use the Application will end and you must delete all copies from your devices.
 
-By accessing and using this Application, you represent that you are legally permitted to use it in your jurisdiction. You must be at least 13 years of age (the age of digital consent in your jurisdiction) to use the Application. If you are below 13, a parent or legal guardian must review and accept these Terms on your behalf.
+By accessing and using this Application, you represent and warrant that you are at least 18 years of age and legally permitted to use it in your jurisdiction. The Application is not intended for or directed to anyone under 18 years of age.
 
 Unauthorized copying, modification of the Application, any part of the Application, or the Service Provider's trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
