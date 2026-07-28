@@ -1,3 +1,10 @@
+<style>
+  /* Oculta la cabecera del tema Jekyll Primer y sus elementos de título */
+  .site-header, header, .header-title, a[href^="/privacy"] {
+    display: none !important;
+  }
+  
+</style>
 
 ** Privacy Policy **
 
