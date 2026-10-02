@@ -9,7 +9,7 @@
   
 </style>
 
-# Política de Privacidad de Humilde PDF
+## Política de Privacidad de Humilde PDF ##
 
 **Última actualización:** 29 de septiembre de 2026
 **Fecha de vigencia:** 29 de septiembre de 2026
