@@ -9,7 +9,7 @@
   
 </style>
 
-# Términos y Condiciones de Uso de Humilde PDF
+## Términos y Condiciones de Uso de Humilde PDF ##
 
 **Última actualización:** 29 de septiembre de 2026
 **Fecha de vigencia:** 29 de septiembre de 2026
