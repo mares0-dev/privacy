@@ -9,7 +9,7 @@
   
 </style>
 
-# Estándares de Seguridad Infantil de Humilde PDF
+## Estándares de Seguridad Infantil de Humilde PDF ##
 
 **Última actualización:** 29 de septiembre de 2026
 **Fecha de vigencia:** 29 de septiembre de 2026
